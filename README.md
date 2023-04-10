@@ -1,4 +1,4 @@
-# musicmashup
+# Music Mashup
 Python based application that uses ffmpeg to import audio files in mp3 format, cut each file, then combine each cut or uncut audio file into a finalized audio file.
 
 to run:
